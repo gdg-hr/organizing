@@ -35,7 +35,7 @@ A scratch pad of people we meet and ideas for future speakers to come and talk t
 
 # Monthly Responsibilities Template
 
-This is a list of what we typically do for each meetup. If you do not have access to the [@757rb](https://twitter.com/757rb) twitter account, just open up an issue and we will get you the login information.
+This is a list of what we typically do for each meetup. If you do not have access to the [@gdg_hr](https://twitter.com/gdg_hr) twitter account, just open up an issue and we will get you the login information.
 
 * Find and schedule a speaker.
 * Confirm the meeting venue. 
